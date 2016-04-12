@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>99824A51-D3A2-49A7-92DB-16CC42F0B4AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Crypto Message</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CE394A3C6E0093DCC0CD8C155CFB36295898C3AA</key>
+		<string>https://github.com/mdclark01/CryptoMessage</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CryptoMessageiPhone/Crypto Message/Crypto Message.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CE394A3C6E0093DCC0CD8C155CFB36295898C3AA</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mdclark01/CryptoMessage</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CE394A3C6E0093DCC0CD8C155CFB36295898C3AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CE394A3C6E0093DCC0CD8C155CFB36295898C3AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CryptoMessage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
